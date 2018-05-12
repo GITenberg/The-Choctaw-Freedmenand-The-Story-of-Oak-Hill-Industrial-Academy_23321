@@ -1,0 +1,35 @@
+_repo: The-Choctaw-Freedmenand-The-Story-of-Oak-Hill-Industrial-Academy_23321
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Flickinger, Robert Elliott
+    birthdate: 1846
+    gutenberg_agent_id: '25803'
+    url: http://www.gutenberg.org/2009/agents/25803
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2007-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23321'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Valliant (Okla.) -- Biography'
+- !lcsh 'Freedmen -- Oklahoma -- History'
+- !lcsh 'Religion in the public schools -- United States -- History'
+- !lcc 'E151'
+- !lcsh 'Alice Lee Elliott Memorial School -- History'
+- !lcsh 'Valliant (Okla.) -- History'
+- !lcsh 'Presbyterian Church in the U.S.A. Board of Missions for Freedmen -- History'
+- !lcsh 'African Americans -- Education -- Oklahoma -- History'
+- !lcsh 'African Americans -- Oklahoma -- History'
+- !lcsh 'Valliant (Okla.) -- Church history'
+- !lcsh 'Five Civilized Tribes -- History'
+title: The Choctaw Freedmen and the Story of Oak Hill Industrial Academy
+url: http://www.gutenberg.org/ebooks/23321
